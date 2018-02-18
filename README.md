@@ -1,7 +1,7 @@
 # This is Markdown Page
 ## My Second Repository
 *Italics*, **Bold**
-[A-1 Multitech] (a-1.in)
+[A-1 Multitech] (http://www.a-1.in)
 
 List:
 - one
